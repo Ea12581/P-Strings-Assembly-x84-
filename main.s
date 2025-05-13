@@ -1,4 +1,3 @@
-#208060855 Evyatar Altman
 #saving the id as a number
 	.data
 ID:	.quad	238888888
