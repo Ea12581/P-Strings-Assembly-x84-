@@ -1,4 +1,4 @@
-//208060855 Evyatar Altman
+
 #file with impelements of the functions
 .data
 .section .rodata
