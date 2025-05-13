@@ -1,4 +1,3 @@
-
 #file with impelements of the functions
 .data
 .section .rodata
